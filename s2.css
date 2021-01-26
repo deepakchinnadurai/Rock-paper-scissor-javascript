@@ -1,0 +1,7 @@
+.flex{
+	padding:10px;
+}
+.score some{
+	flex-wrap: wrap;
+	text-align: center;
+}
